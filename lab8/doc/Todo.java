@@ -28,8 +28,8 @@ Estimated Time (minutes):
 9. 60
 
 Actual Time (minutes):
-1. 999
-2. 999
+1. 8
+2. 7
 3. 999
 4. 999
 5. 999
