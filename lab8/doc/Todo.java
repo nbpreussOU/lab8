@@ -1,7 +1,7 @@
 package lab8.doc;
 public class Todo {/*
 Lab Section_________: 012
-Last Modified_______: 2019-03-14
+Last Modified_______: 2019-03-22
 OU ID_______________: 113411201
 OU EMAIL____________: nathan.b.preuss-1@ou.edu
 
@@ -35,6 +35,6 @@ Actual Time (minutes):
 5. 2
 6. 50
 7. 1
-8. 999
+8. 70
 9. 999
 */}
