@@ -22,7 +22,7 @@ public enum GamePiece
         return appearance.getShape();
     }
     
-    public GamePiece movesFirst(GamePiece a, GamePiece b)
+    public static GamePiece movesFirst(GamePiece a, GamePiece b)
     {
         if(a.priority < b.priority)
         {
