@@ -1,4 +1,5 @@
 package lab8.doc;
+
 public class Todo {/*
 Lab Section_________: 012
 Last Modified_______: 2019-03-22
@@ -36,5 +37,5 @@ Actual Time (minutes):
 6. 50
 7. 1
 8. 70
-9. 999
+9. 75
 */}

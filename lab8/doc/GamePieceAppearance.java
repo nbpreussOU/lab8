@@ -1,5 +1,6 @@
 package lab8.doc;
 
+
 public class GamePieceAppearance
 {
     private Color color;

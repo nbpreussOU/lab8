@@ -1,5 +1,6 @@
 package lab8.doc;
 
+
 public enum Shape
 {
     THIMBLE, BOOT, RACECAR;
